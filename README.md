@@ -1,0 +1,2 @@
+# birinciSinifToplama
+eglenceli Toplama oyunu
